@@ -8,3 +8,5 @@
 [Quiz App] https://fehminasheikh7.github.io/quiz/
 
 [Basic Form] https://fehminasheikh7.github.io/Basic-Form/
+
+[Tribute Page] https://fehminasheikh7.github.io/Tribute-/
