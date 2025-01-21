@@ -10,3 +10,5 @@
 [Basic Form] https://fehminasheikh7.github.io/Basic-Form/
 
 [Tribute Page] https://fehminasheikh7.github.io/Tribute-/
+
+[Resume] https://fehminasheikh7.github.io/Fehmina-Resume/
